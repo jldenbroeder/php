@@ -114,7 +114,23 @@ header, footer{
   padding: 10px;
 
 }
+.col_75 {
+  width: 72%;
+  padding: 10px;
+    display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: row;
+  -ms-flex-direction: row;
 
+}
+.col_25 {
+  width: 23%;
+  padding: 10px;
+
+}
 .col_fin {
   display: -webkit-box;
   display: -moz-box;

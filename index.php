@@ -14,10 +14,11 @@ echo "PHP de Jean Luc";
  <p>gksu /opt/lampp/manager-linux-x64.run</p>
 <p> <a href="http://localhost/phpmyadmin/index.php?lang=fr&collation_connection=utf8mb4_unicode_ci" target="_blank">PHPMyAdmin</a></p>
 <p> <a href="https://medium.com/@corentinwarin/tutoriel-pour-un-serveur-local-xampp-localhost-7f5642954845" target="_blank">Tuto de Corentin</a></p>
-<p><a href="variable.php" target="_blank">PHP / Les variables</a></p>
-<p><a href="conditions.php" target="_blank">PHP / Exercices dirigés: les conditions</a></p>
-<p><a href="array.php" target="_blank">PHP / Les tableaux</a></p>
-<p><a href="formulaire.php" target="_blank">PHP / Les formulaires, vérification, validation,...</a></p>
-<p><a href="pagination.php" target="_blank">PHP / Pagination</a></p>
+<p><a href="variable/variable.php" target="_blank">PHP / Les variables</a></p>
+<p><a href="conditions/conditions.php" target="_blank">PHP / Exercices dirigés: les conditions</a></p>
+<p><a href="array/array.php" target="_blank">PHP / Les tableaux</a></p>
+<p><a href="formulaire/formulaire.php" target="_blank">PHP / Les formulaires, vérification, validation,...</a></p>
+<p><a href="pagination/pagination.php" target="_blank">PHP / Pagination</a></p>
+<p><a href="fichier/" target="_blank">PHP / Manipulation de fichiers</a></p>
 </body>
 </html>
