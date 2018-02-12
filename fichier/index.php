@@ -7,6 +7,6 @@
   <title>Manipulation de fichiers</title>
 </head>
 <body>
-<p> <a href="fichier1.php">Fichier 1</a></p>
+<p> <a href="fichier1.php">Gestion de fichiers .txt</a></p>
 </body>
 </html>

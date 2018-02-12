@@ -42,7 +42,7 @@ closedir($dossier);
         <!-- AJOUT D'UN NOUVEAU FICHIER -->
         <form name="form" method="post" action="">
           <input type="text" name="new" placeholder="Nom du fichier" > .txt <br />
-          <textarea name="content" id="content" cols="30" rows="5"></textarea>
+          <textarea name="content" id="content" cols="30" rows="5"></textarea><br />
           <input type="submit" name="submit" value="Ajouter"/>
         </form>
 
